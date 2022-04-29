@@ -100,7 +100,7 @@ Finally to run it:
 There are only two API endpoints:
 
 * GET /google-sheets : <code>http://localhost:4000/google-sheets</code>  
-  This return all the values on the google sheet:
+  This return all the values on the google sheet: [GSheet](https://docs.google.com/spreadsheets/d/13lXhzTe6B5tzlqYEentKuw3qCiIye78_6Sae-No1vZ4/edit?usp=sharing)
 * POST /bitcoin: <code>http://localhost:4000/bitcoin</code>  
   To this point you can send a JSON that modifies the value of Bitcoin price. e.g. {"Bitcoin": 65000}
 
