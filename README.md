@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://bitbucket.org/test-coda/test2_express_app">
-    <img src="https://raw.githubusercontent.com/DDelgadoD/DDelgadoD/main/images/logo.jpg" alt="Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/DDelgadoD/DDelgadoD/main/images/logo.jpg" alt="Logo" width="250" height="250">
   </a>
 
 <h3 align="center">Node.js Express App</h3>
@@ -120,7 +120,7 @@ Distributed under the MIT License. See [`LICENSE.md`](https://raw.githubusercont
 
 David Delgado-Dueñas - david.delgado82@gmail.com
 
-Project Link: [https://bitbucket.org/test-coda/test2_express_app](https://bitbucket.org/test-coda/test2_express_app)
+Project Link: [https://github.com/DDelgadoD/GSheets_Express.js](https://github.com/DDelgadoD/GSheets_Express.js)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
