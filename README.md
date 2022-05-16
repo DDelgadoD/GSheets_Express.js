@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://bitbucket.org/test-coda/test2_express_app">
-    <img src="https://raw.githubusercontent.com/DDelgadoD/DDelgadoD/main/images/logo.jpg" alt="Logo" width="1000" height="100">
+    <img src="https://raw.githubusercontent.com/DDelgadoD/DDelgadoD/main/images/logo.jpg" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Node.js Express App</h3>
