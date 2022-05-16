@@ -7,12 +7,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![MIT License][license-shield]][license-url]
-[![GitHub][github-shield]][github-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![ResearchGate][researchgate-shield]][researchgate-url]
-[![Gmail][gmail-shield]][gmail-url]
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -118,7 +118,12 @@ Distributed under the MIT License. See [`LICENSE.md`](https://raw.githubusercont
 <!-- CONTACT -->
 ## Contact
 
-David Delgado-Dueñas - david.delgado82@gmail.com
+David Delgado-Dueñas
+
+[![GitHub][github-shield]][github-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![ResearchGate][researchgate-shield]][researchgate-url]
+[![Gmail][gmail-shield]][gmail-url]
 
 Project Link: [https://github.com/DDelgadoD/GSheets_Express.js](https://github.com/DDelgadoD/GSheets_Express.js)
 
@@ -134,6 +139,20 @@ Project Link: [https://github.com/DDelgadoD/GSheets_Express.js](https://github.c
 [github-url]: https://github.com/DDelgadoD/
 [license-shield]: https://img.shields.io/github/license/DDelgadoD/DDelgadoD.svg?style=for-the-badge
 [license-url]: https://raw.githubusercontent.com/DDelgadoD/DDelgadoD/main/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0072B1
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/david-delgado-duenas/
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/DDelgadoD/GSheets_Express.js.svg?style=for-the-badge
+[contributors-url]: https://github.com/DDelgadoD/GSheets_Express.js/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DDelgadoD/GSheets_Express.js.svg?style=for-the-badge
+[forks-url]: https://github.com/DDelgadoD/GSheets_Express.js/network/members
+[stars-shield]: https://img.shields.io/github/stars/DDelgadoD/GSheets_Express.js.svg?style=for-the-badge
+[stars-url]: https://github.com/DDelgadoD/GSheets_Express.js/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DDelgadoD/GSheets_Express.js.svg?style=for-the-badge
+[issues-url]: https://github.com/DDelgadoD/GSheets_Express.js/issues
+[license-shield]: https://img.shields.io/github/license/DDelgadoD/GSheets_Express.js.svg?style=for-the-badge
+[license-url]: https://github.com/DDelgadoD/GSheets_Express.js/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
